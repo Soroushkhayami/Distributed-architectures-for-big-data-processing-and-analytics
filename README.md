@@ -29,5 +29,4 @@ To run the Hadoop jobs in this repository locally or on a cluster, you will need
 2. Build the JAR: `mvn clean package`
 3. Run on Hadoop: `hadoop jar target/Lab2-1.0.0.jar <arguments...>`
 
----
-*Maintained by [Your Name].*
+
