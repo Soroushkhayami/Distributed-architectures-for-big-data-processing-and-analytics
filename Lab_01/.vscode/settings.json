@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c:\\Users\\ZBOOK\\Desktop\\Semester_02\\Big Data\\LAB\\Lab_01\\Lab1_BigData_with_libraries_vscode\\lib\\hadoop-client-2.6.0-cdh5.14.0.jar",
+        "c:\\Users\\ZBOOK\\Desktop\\Semester_02\\Big Data\\LAB\\Lab_01\\Lab1_BigData_with_libraries_vscode\\lib\\hadoop-common-2.6.0-cdh5.14.0.jar",
+        "c:\\Users\\ZBOOK\\Desktop\\Semester_02\\Big Data\\LAB\\Lab_01\\Lab1_BigData_with_libraries_vscode\\lib\\hadoop-mapreduce-client-core-2.6.0-cdh5.14.0.jar"
+    ]
+}
