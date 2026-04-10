@@ -15,7 +15,10 @@ Click on the links below to dive into the specific materials, datasets, and code
 | **Lab 03** | Advanced Join Patterns & MapReduce Optimizations | 🟢 Available | [👉 Go to Lab 03](./Lab_03) |
 | **Lab 04** | Rating Normalization on Amazon Food Dataset | 🟢 Available | [👉 Go to Lab 04](./Lab_04) |
 | **Lab 05** | Introduction to Apache Spark & RDD Filtering | 🟢 Available | [👉 Go to Lab 05](./Lab_05) |
+<<<<<<< HEAD
 
+=======
+>>>>>>> a176b65e5da7d5feb7c9c5338391b3b9b76ffe6d
 ---
 
 ## 🛠 Prerequisites & Setup
