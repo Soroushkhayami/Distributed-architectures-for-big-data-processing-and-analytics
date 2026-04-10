@@ -13,8 +13,8 @@ Click on the links below to dive into the specific materials, datasets, and code
 | **Lab 01** | Hadoop Basics, WordCount, and Environment Setup | 🟢 Available | [👉 Go to Lab 01](./Lab_01) |
 | **Lab 02** | Map-only Jobs, Custom Counters, and Prefix Filtering | 🟢 Available | [👉 Go to Lab 02](./Lab_02) |
 | **Lab 03** | Advanced Join Patterns & MapReduce Optimizations | 🟢 Available | [👉 Go to Lab 03](./Lab_03) |
-| Lab 04 | Rating Normalization on Amazon Food Dataset | 🟢 Available | [👉 Go to Lab 04](./Lab_04) |
-
+| **Lab 04** | Rating Normalization on Amazon Food Dataset | 🟢 Available | [👉 Go to Lab 04](./Lab_04) |
+| **Lab 05** | Introduction to Apache Spark & RDD Filtering | 🟢 Available | [👉 Go to Lab 05](./Lab_05) |
 ---
 
 ## 🛠 Prerequisites & Setup
